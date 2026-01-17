@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>السيرة الذاتية - د. محمود جمال</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.8;
+      margin: 40px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #005a8d;
+    }
+    ul {
+      padding-right: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .contact a {
+      color: #005a8d;
+      text-decoration: none;
+    }
+    img {
+      width: 150px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <center>
+      <img src="profile.jpg" alt="صورة د. محمود جمال">
+      <h1>د. محمود جمال</h1>
+      <p>طبيب نفسي وباحث أكاديمي | الكويت</p>
+    </center>
+
+    <div class="section">
+      <h2>📌 النبذة المهنية</h2>
+      <p>
+        طبيب نفسي وباحث أكاديمي بخبرة منذ عام 2016. عملت في مستشفى العباسية للصحة النفسية بمصر، وأعمل حالياً في مستشفى متخصص بدولة الكويت.  
+        أؤمن بدمج الخبرة الطبية مع الإبداع الرقمي، وأسعى لتطوير أدوات ومحتوى يعزز الوعي النفسي.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>🎓 التعليم</h2>
+      <ul>
+        <li>بكالوريوس الطب والجراحة – جامعة القاهرة</li>
+        <li>ماجستير الطب النفسي – مصر</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>🧠 المهارات</h2>
+      <ul>
+        <li>تشخيص وعلاج الاضطرابات النفسية</li>
+        <li>التواصل الفعّال مع المرضى</li>
+        <li>إدارة الفرق الطبية متعددة التخصصات</li>
+        <li>تصميم مواقع شخصية وسير ذاتية رقمية</li>
+      </ul>
+    </div>
+
+    <div class="section contact">
+      <h2>📬 معلومات التواصل</h2>
+      <ul>
+        <li>📧 البريد الإلكتروني: <a href="mailto:mimimagie409@gmail.com">mimimagie409@gmail.com</a></li>
+        <li>💻 GitHub: <a href="https://github.com/mimimagie409-star" target="_blank">اضغط هنا لزيارة حسابي</a></li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
